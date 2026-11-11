@@ -76,3 +76,11 @@ This GitHub is where I document my learning process, experiments, university pro
   <br>
   <img src="https://komarev.com/ghpvc/?username=RahmaniaSyafira12&color=D987B5&style=flat-square&label=Profile+Views" />
 </p>
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahmaniasyafira/rahmaniasyafira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahmaniasyafira/rahmaniasyafira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahmaniasyafira/rahmaniasyafira/output/github-contribution-grid-snake.svg">
+</picture>
